@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio del Modulo 2 de Henry
+Este es un proyecto de direcotrio local
